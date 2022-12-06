@@ -1,6 +1,6 @@
 # ML_IsRainByASOS
 Machine Learning Project for homework of AI class
-- data : https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36 [기상자료개방포털] Automated Synoptic Observing System
+- data : https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36 [기상자료개방포털] Automated Synoptic Observing System (Daejeon, 00.01.01~22.12.03
 - Use : Decision Tree
 - What : Predicting rain by ASOS Data (Daily)
 
